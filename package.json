@@ -1,0 +1,12 @@
+{
+  "name": "otp-spammer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
